@@ -1,0 +1,7 @@
+{
+  "security": { "mfaForPrivilegedUsers": true, "centralizedAuditLogs": true, "secretsManaged": false },
+  "reliability": { "multiAz": true, "backupsTested": false, "autoscalingConfigured": true },
+  "cost": { "costAllocationTags": false, "budgetsConfigured": true, "rightsizingReviewed": false },
+  "observability": { "metricsAvailable": true, "centralizedLogs": true, "tracesAvailable": false },
+  "developerExperience": { "selfServiceTemplates": false, "gitopsEnabled": true, "runbooksCurrent": false }
+}
